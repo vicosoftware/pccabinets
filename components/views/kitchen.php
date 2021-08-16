@@ -12,7 +12,7 @@ $totalSlide = 3;
     <div class="container position-relative full-screen">
         <div class="slider-typography text-center"><div class="slider-text-middle-main"><div class="slider-text-middle">
             <h1 class="alt-font text-uppercase text-white-2 font-weight-700 width-75 sm-width-90 mx-auto margin-35px-bottom">
-                KITCHEN & CABINETS...
+                KITCHEN & CABINETS
             </h1>
             <span class="text-large text-very-light-gray font-weight-300 width-95 mx-auto margin-25px-bottom d-block sm-width-85 fsp-2">
                 THE BEST STYLE WITH THE BEST QUALITY
