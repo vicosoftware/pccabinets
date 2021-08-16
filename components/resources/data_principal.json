@@ -1,0 +1,25 @@
+{
+    "company": "Precious Custom Cabinets",
+    "products": [
+        {
+            "title": "KITCHEN & CABINETS",
+            "slogan": "THE BEST STYLE WITH THE BEST QUALITY",
+            "secretIdentity": "Dan Jukes",
+            "powers": [
+                "Radiation resistance",
+                "Turning tiny",
+                "Radiation blast"
+            ]
+        },
+        {
+            "title": "BATHROOM & CABINETS",
+            "slogan": "THE BEST STYLE WITH THE BEST QUALITY",
+            "secretIdentity": "Dan Jukes",
+            "powers": [
+                "Radiation resistance",
+                "Turning tiny",
+                "Radiation blast"
+            ]
+        }
+    ]
+}
