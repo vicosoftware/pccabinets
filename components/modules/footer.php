@@ -35,10 +35,8 @@
             <div class="col-lg-2 col-md-4 text-center text-lg-start">
                 <div class="widget">
                 <h4 class="widget-title mb-3 text-white">Get in Touch</h4>
-                <a href="https://goo.gl/maps/YgUh1PWjGkDmfqEG9" target="_blank"><address><i class="fas fa-map-marker-alt"></i> 10600 Dolores Ave, South Gate, CA, 90280, United States of America</address></a>
-                <a href="mailto:arturodondiego@yahoo.com">arturodondiego@yahoo.com</a>
-                <br/> 
-                <a href="tel:+13233041929" target="_blank"><i class="fas fa-phone-alt"></i> +1(323)304-1929</a>
+                <address><i class="fas fa-map-marker-alt"></i> 10600 Dolores Ave, South Gate, CA, 90280, United States of America</address>
+                arturodondiego@yahoo.com<br/> <i class="fas fa-phone-alt"></i> +1(323)304-1929
                 </div>
             </div>
         </div>
