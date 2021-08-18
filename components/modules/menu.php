@@ -25,42 +25,42 @@
                             <li class="mega-menu-content">
                                 <ul class="row row-cols-1 row-cols-lg-6 gx-0 gx-lg-4 gy-lg-2 list-unstyled">
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.html">
+                                        <a class="dropdown-item" href="index.php">
                                         <figure class="rounded lift d-none d-lg-block">
                                             <img src="assets/img/menu/serv-installation.jpg" srcset="assets/img/menu/serv-installation.jpg 2x" alt="" class="img-shadow-bg">
                                         </figure>
                                         <span class="d-lg-none">Installation</span></a>
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.html">
+                                        <a class="dropdown-item" href="index.php">
                                         <figure class="rounded lift d-none d-lg-block">
                                             <img src="assets/img/menu/serv-refinishing.jpg" srcset="assets/img/menu/serv-refinishing.jpg 2x" alt="" class="img-shadow-bg">
                                         </figure>
                                         <span class="d-lg-none">Refinishing & Refacing</span></a>
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.html">
+                                        <a class="dropdown-item" href="index.php">
                                         <figure class="rounded lift d-none d-lg-block">
                                             <img src="assets/img/menu/serv-maintenance.jpg" srcset="assets/img/menu/serv-maintenance.jpg 2x" alt="" class="img-shadow-bg">
                                         </figure>
                                         <span class="d-lg-none">Maintenance</span></a>
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.html">
+                                        <a class="dropdown-item" href="index.php">
                                         <figure class="rounded lift d-none d-lg-block">
                                             <img src="assets/img/menu/serv-repair.jpg" srcset="assets/img/menu/serv-repair.jpg 2x" alt="" class="img-shadow-bg">
                                         </figure>
                                         <span class="d-lg-none">Repair</span></a>
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.html">
+                                        <a class="dropdown-item" href="index.php">
                                         <figure class="rounded lift d-none d-lg-block">
                                             <img src="assets/img/menu/serv-fabrication.jpg" srcset="assets/img/menu/serv-fabrication.jpg 2x" alt="" class="img-shadow-bg">
                                         </figure>
                                         <span class="d-lg-none">Fabrication</span></a>
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.html">
+                                        <a class="dropdown-item" href="index.php">
                                         <figure class="rounded lift d-none d-lg-block">
                                             <img src="assets/img/menu/serv-remodeling.jpg" srcset="assets/img/menu/serv-remodeling.jpg 2x" alt="" class="img-shadow-bg">
                                         </figure>
@@ -75,7 +75,7 @@
                             <li class="mega-menu-content">
                                 <ul class="row row-cols-1 row-cols-lg-4 gx-0 gx-lg-4 gy-lg-2 list-unstyled">
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.html">
+                                        <a class="dropdown-item" href="index.php">
                                             <figure class="rounded lift d-none d-lg-block">
                                                 <img src="assets/img/menu/prod-kitchen.jpg" srcset="assets/img/menu/prod-kitchen@2x.jpg 2x" alt="" class="img-shadow-bg">
                                             </figure>
@@ -83,7 +83,7 @@
                                         </a>                                        
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.html">
+                                        <a class="dropdown-item" href="index.php">
                                             <figure class="rounded lift d-none d-lg-block">
                                                 <img src="assets/img/menu/prod-entertainment.jpg" srcset="assets/img/menu/prod-entertainment@2x.jpg 2x" alt="" class="img-shadow-bg">
                                             </figure>
@@ -91,7 +91,7 @@
                                         </a>
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.html">
+                                        <a class="dropdown-item" href="index.php">
                                             <figure class="rounded lift d-none d-lg-block">
                                                 <img src="assets/img/menu/prod-bathroom.jpg" srcset="assets/img/menu/prod-bathroom@2x.jpg 2x" alt="" class="img-shadow-bg">
                                             </figure>
@@ -99,7 +99,7 @@
                                         </a>
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.html">
+                                        <a class="dropdown-item" href="index.php">
                                             <figure class="rounded lift d-none d-lg-block">
                                                 <img src="assets/img/menu/prod-cabinets.jpg" srcset="assets/img/menu/prod-cabinets@2x.jpg 2x" alt="" class="img-shadow-bg">
                                             </figure>
