@@ -9,8 +9,10 @@ return array(
     'meta_keywords' => '',
     'meta_author' => 'Omar Villalobos',
     /** PATHS */
-    'path_resource' => 'components/resources',
     'path_assets' => 'assets/css',
-    'path_views' => 'components/views'
+
+    'resource' => 'components/resources',
+    'module' => 'components/modules',
+    'views' => 'components/views',
 )
 ?>
