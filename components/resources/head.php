@@ -23,4 +23,8 @@ echo "<meta name='author' content=".$component['meta_author']." />";
 <link rel="stylesheet" href="assets/css/plugins.css">
 <link rel="stylesheet" href="assets/css/style.css">
 
-<link rel="stylesheet" href="assets/css/global_style.css" />
+<?php 
+$stylesheet_version = '<link rel="stylesheet" href="assets/css/global_style.css?v"'.$fileVersion.' />';
+
+echo $stylesheet_version;
+?>

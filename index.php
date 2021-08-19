@@ -1,4 +1,9 @@
-<?php $component = require( 'components/resources/config.php' ); ?>
+<?php 
+  $component = require( 'components/resources/config.php' );
+
+  $fileVersion = md5(date("YmdHis"));
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

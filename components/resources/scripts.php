@@ -7,4 +7,9 @@
 <script src="assets/js/plugins.js"></script>
 <script src="assets/js/theme.js"></script>
 
-<script type="text/javascript" src="assets/js/global_script.js"></script>
+<?php 
+$script_version = '<script type="text/javascript" src="assets/js/global_script.js?V'.$fileVersion.'"></script>';
+
+echo $script_version;
+?>
+
