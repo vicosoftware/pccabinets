@@ -33,26 +33,30 @@
                 <p>Our main objective is to provide you with the best service, our products are of high quality and we have very good designers who will make that dream come true.</p>
                 
                 <nav class="nav-contact-us">
-                    <!-- PHONE CALL -->
-                    <a href="tel:+13232046719" target="_blank" class="btn btn-red btn-md rounded-pill" style="border: 2px solid #FFFFFF; background-color: #e74c3c !important; margin-bottom: 0px;"><i class="uil uil-phone-volume"></i> CONTACT US</a>
-                    <!-- TEXT -->
-                    <a href="sms:+13232046719&body=Hello, could you help me with an estimate?" target="_blank" class="btn btn-circle btn-red btn-md rounded-pill" style="border: 2px solid #FFFFFF; background-color: #9b59b6 !important; margin-bottom: 0px;"><i class="fas fa-sms"></i></a>
-                    <!-- WHATSAPP -->
-                    <a href="https://wa.me/13232046719" target="_blank" class="btn btn-circle btn-leaf btn-md rounded-pill" style="border: 2px solid #FFFFFF; background-color: #00E676 !important; margin-bottom: 0px;"><i class="fab fa-whatsapp"></i></a>
-                    <!-- E-MAIL -->
-                    <a href="mailto:arturodondiego@yahoo.com" target="_blank" class="btn btn-circle btn-red btn-md rounded-pill" style="border: 2px solid #FFFFFF; background-color: #e67e22 !important; margin-bottom: 10px;"><i class="far fa-envelope"></i></a>
-                    <!-- GOOGLE MAPS -->
-                    <a href="https://goo.gl/maps/YgUh1PWjGkDmfqEG9" target="_blank" class="btn btn-circle btn-primary btn-md rounded-pill" style="border: 2px solid #FFFFFF; margin-bottom: 10px;"><i class="fas fa-map-marker-alt"></i></a>
+                    <div class="d-flex justify-content-center justify-content-lg-start">
+                        <!-- PHONE CALL -->
+                        <a href="tel:+13232046719" target="_blank" class="btn btn-red btn-md rounded-pill" style="border: 2px solid #FFFFFF; background-color: #e74c3c !important; margin-bottom: 20px;"><i class="uil uil-phone-volume"></i> CONTACT US</a>
+                        <!-- TEXT -->
+                        <a href="sms:+13232046719&body=Hello, could you help me with an estimate?" target="_blank" class="btn btn-circle btn-red btn-md rounded-pill" style="border: 2px solid #FFFFFF; background-color: #9b59b6 !important; margin-bottom: 20px;"><i class="fas fa-sms"></i></a>
+                        <!-- WHATSAPP -->
+                        <a href="https://wa.me/13232046719" target="_blank" class="btn btn-circle btn-leaf btn-md rounded-pill" style="border: 2px solid #FFFFFF; background-color: #00E676 !important; margin-bottom: 20px;"><i class="fab fa-whatsapp"></i></a>
+                        <!-- E-MAIL -->
+                        <a href="mailto:arturodondiego@yahoo.com" target="_blank" class="btn btn-circle btn-red btn-md rounded-pill" style="border: 2px solid #FFFFFF; background-color: #e67e22 !important; margin-bottom: 20px;"><i class="far fa-envelope"></i></a>
+                        <!-- GOOGLE MAPS -->
+                        <a href="https://goo.gl/maps/YgUh1PWjGkDmfqEG9" target="_blank" class="btn btn-circle btn-primary btn-md rounded-pill" style="border: 2px solid #FFFFFF; margin-bottom: 20px;"><i class="fas fa-map-marker-alt"></i></a>
+                    </div>
                 </nav>
             </div>
         </div>
     </div>
 </section>
 
-<section class="wrapper bg-light d-sm-block d-md-block" data-cues="slideInDown" data-duration="2000" data-delay="1000" >
-    <div class="row">
-        <div class="col-12 position-relative">
-            <iframe src="<?php echo $component['google_src']; ?>" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" class="google-maps-contact-lg"></iframe>
+<section class="wrapper bg-light d-sm-block d-md-block" data-cues="slideInDown" data-duration="2000" data-delay="1000"  >
+    <div class="container-fluid px-0 py-0 my-0">
+        <div class="row px-0 py-0 my-0">
+            <div class="col-12 px-0 py-0 my-0">
+                <iframe src="<?php echo $component['google_src']; ?>" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" class="google-maps-contact-lg"></iframe>
+            </div>
         </div>
     </div>
 </section>
