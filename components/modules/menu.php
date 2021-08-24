@@ -70,7 +70,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="#">Products</a>
+                    <li class="nav-item"><a class="nav-link" href="#">Cabinetry</a>
                         <ul class="dropdown-menu mega-menu mega-menu-img">
                             <li class="mega-menu-content">
                                 <ul class="row row-cols-1 row-cols-lg-4 gx-0 gx-lg-4 gy-lg-2 list-unstyled">
@@ -85,14 +85,6 @@
                                     <li class="col">
                                         <a class="dropdown-item" href="index.php">
                                             <figure class="rounded lift d-none d-lg-block">
-                                                <img src="assets/img/menu/prod-entertainment.jpg" srcset="assets/img/menu/prod-entertainment@2x.jpg 2x" alt="" class="img-shadow-bg">
-                                            </figure>
-                                            <span class="d-lg-none">Entertainment</span>
-                                        </a>
-                                    </li>
-                                    <li class="col">
-                                        <a class="dropdown-item" href="index.php">
-                                            <figure class="rounded lift d-none d-lg-block">
                                                 <img src="assets/img/menu/prod-bathroom.jpg" srcset="assets/img/menu/prod-bathroom@2x.jpg 2x" alt="" class="img-shadow-bg">
                                             </figure>
                                             <span class="d-lg-none">Bathroom</span>
@@ -101,9 +93,17 @@
                                     <li class="col">
                                         <a class="dropdown-item" href="index.php">
                                             <figure class="rounded lift d-none d-lg-block">
+                                                <img src="assets/img/menu/prod-entertainment.jpg" srcset="assets/img/menu/prod-entertainment@2x.jpg 2x" alt="" class="img-shadow-bg">
+                                            </figure>
+                                            <span class="d-lg-none">Entertainment</span>
+                                        </a>
+                                    </li>
+                                    <li class="col">
+                                        <a class="dropdown-item" href="index.php">
+                                            <figure class="rounded lift d-none d-lg-block">
                                                 <img src="assets/img/menu/prod-cabinets.jpg" srcset="assets/img/menu/prod-cabinets@2x.jpg 2x" alt="" class="img-shadow-bg">
                                             </figure>
-                                            <span class="d-lg-none">Cabinets</span>
+                                            <span class="d-lg-none">Custom Cabinets</span>
                                         </a>
                                     </li>
                                 </ul>

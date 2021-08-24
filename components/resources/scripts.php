@@ -6,6 +6,7 @@
 
 <script src="assets/js/plugins.js"></script>
 <script src="assets/js/theme.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
 
 <?php 
 $script_version = '<script type="text/javascript" src="assets/js/global_script.js?V'.$fileVersion.'"></script>';
