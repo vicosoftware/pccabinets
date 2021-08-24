@@ -52,10 +52,10 @@
 </section>
 
 <section class="wrapper bg-light d-sm-block d-md-block" data-cues="slideInDown" data-duration="2000" data-delay="1000"  >
-    <div class="container-fluid px-0 py-0 my-0">
-        <div class="row px-0 py-0 my-0">
-            <div class="col-12 px-0 py-0 my-0">
-                <iframe src="<?php echo $component['google_src']; ?>" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" class="google-maps-contact-lg"></iframe>
+    <div class="container-fluid px-0" >
+        <div class="row px-0">
+            <div class="col-12">
+                <iframe src="<?php echo $component['google_src']; ?>" width="100%" height="100%" style="border:2px solid red;" allowfullscreen="" loading="lazy" class="google-maps-contact-lg"></iframe>
             </div>
         </div>
     </div>
