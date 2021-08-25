@@ -2,21 +2,21 @@
     <div class="container py-10 py-md-12">
         <div class="row gy-10 gx-lg-8 gx-xl-12 align-items-center">
             <div class="col-lg-7 position-relative">
-                <div class="shape bg-dot primary rellax w-18 h-18" data-cues="slideInLeft" data-duration="1500" data-delay="900" data-rellax-speed="1" style="top: 0px; left: -1.4rem; z-index: 0; transform: translate3d(0px, 2px, 0px);"></div>
+                <div class="shape bg-dot primary rellax w-18 h-18" data-cues="slideInLeft" data-duration="1500" data-delay="200" data-rellax-speed="1" style="top: 0px; left: -1.4rem; z-index: 0; transform: translate3d(0px, 2px, 0px);"></div>
                 <div class="row gx-md-5 gy-5">
                 <div class="col-md-6">
-                    <figure class="rounded mt-md-10 position-relative" data-cues="slideInLeft" data-duration="1500" data-delay="1000"><img src="assets/img/contact-us/banner-1.jpg" alt=""></figure>
+                    <figure class="rounded mt-md-10 position-relative" data-cues="slideInLeft" data-duration="1500" data-delay="200"><img src="assets/img/contact-us/banner-1.jpg" alt=""></figure>
                 </div>
                 <div class="col-md-6">
                     <div class="row gx-md-5 gy-5">
                     <div class="col-md-12 order-md-2">
-                        <figure class="rounded"  data-cues="slideInRight" data-duration="1500" data-delay="1500"><img src="assets/img/contact-us/banner-2.jpg" alt=""></figure>
+                        <figure class="rounded"  data-cues="slideInRight" data-duration="1500" data-delay="400"><img src="assets/img/contact-us/banner-2.jpg" alt=""></figure>
                     </div>
-                    <div class="col-md-10" data-cues="zoomIn" data-duration="1500" data-delay="2000">
+                    <div class="col-md-10" data-cues="zoomIn" data-duration="1500" data-delay="600">
                         <div class="card bg-pale-primary text-center">
                         <div class="card-body py-11 counter-wrapper">
                             <h3 class="counter text-nowrap" style="visibility: visible;">1000+</h3>
-                            <p class="mb-0"><span class="typer text-primary" data-delay="100" data-delim=":" data-words="Satisfied Customers:Finished Works:Happy Customer:Thanks for trusting us"></span><span class="cursor text-primary" data-owner="typer" style="transition: all 0.1s ease 0s; opacity: 0;">|</span></p>
+                            <p class="mb-0"><span class="typer text-primary" data-delay="800" data-delim=":" data-words="Satisfied Customers:Finished Works:Happy Customer:Thanks for trusting us"></span><span class="cursor text-primary" data-owner="typer" style="transition: all 0.1s ease 0s; opacity: 0;">|</span></p>
                         </div>
                         </div>
                     </div>
@@ -25,7 +25,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-5 text-center text-lg-start" data-cues="zoomIn" data-duration="1500" data-delay="1500">
+            <div class="col-lg-5 text-center text-lg-start" data-cues="zoomIn" data-duration="1500" data-delay="1000">
                 <h2 class="display-4 mb-3">Let’s Talk</h2>
 
                 <p>Let's do something great together. We have the trust of all our clients in and around Los Angeles. Having more than <mark>15 years of experience</mark>. We are the best option in this area.</p>

@@ -1,5 +1,5 @@
 <section class="wrapper px-md-0">
-    <div class="container-fluid py-0 px-0">
+    <div class="container-fluid py-0 px-0" data-cues="slideInDown" data-duration="1500" data-delay="200">
         <iframe 
             src="<?php echo $component['google_src']; ?>" 
             width="100%" 
