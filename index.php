@@ -25,6 +25,9 @@
 
       //SECTION - MODULE[ CONTACT-US ]
       require_once( $component['module'].'/contact-us.php' );
+
+      //SECTION - MODULE[ CONTACT-US ]
+      require_once( $component['module'].'/google-map.php' );
     ?>
   </div>
 

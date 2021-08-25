@@ -11,7 +11,7 @@ if(isset( $social_media )){
     if( $social_media['tiktok'] != "" ){ $social_media_data .= '<a href="'.$social_media['tiktok'].'" target="_blank"><i class="fab fa-tiktok"></i></a>'; }
 
     if( $social_media_data != "" ){
-        echo '<nav class="nav social social-white justify-content-between justify-content-md-start">';
+        echo '<nav class="nav social social-white justify-content-center justify-content-md-start">';
         echo $social_media_data;
         echo '</nav>';
     }

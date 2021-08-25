@@ -1,4 +1,4 @@
-<section class="wrapper bg-light wrapper-border">
+<section class="wrapper bg-light">
     <div class="container py-10 py-md-12">
         <div class="row gy-10 gx-lg-8 gx-xl-12 align-items-center">
             <div class="col-lg-7 position-relative">

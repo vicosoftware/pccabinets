@@ -75,17 +75,12 @@
 }
 
 /* SECTION -> SOCIAL MEDIA *************************************************************/
-.google-maps-contact-lg {
-  height: 400px;
-}
 .google-maps-contact {
-  height: 500px;
-  border-radius: 10px;
-  box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.5);
+  height: 400px;
 }
 @media (max-width: 768px) {
   .google-maps-contact {
-    height: 300px;
+    height: 250px;
   }
 }
 
