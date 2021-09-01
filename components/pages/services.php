@@ -1,11 +1,11 @@
 <section class="wrapper bg-light">
     <div class="container pt-10 pb-10 pb-md-0 text-center"><div class="row">
-        <div    class="col-md-8 col-lg-7 col-xl-6 col-xxl-5 mx-auto" 
+        <div    class="col-sm-12 col-md-8 col-lg-8 mx-auto" 
                 data-cues="slideInDown" 
                 data-duration="1500" 
                 data-delay="100">
-            <h1 class="display-1 mb-3">Services</h1>
-            <p class="lead fs-lg px-lg-10 px-xxl-8">Check out some of our awesome projects with creative ideas and great design.</p>
+            <h1 class="display-1 mb-3">Know more about our services</h1>
+            <p class="lead fs-lg px-lg-10 px-xxl-8">We have more than 15 years of experience that will provide you with the best service, these are some of our services with pleasure we can offer you.</p>
         </div>
     </div></div>
 </section>

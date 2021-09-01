@@ -20,18 +20,20 @@
 
     <?php 
       // SECTION - REQUIERE MODULES
-      require_once( $component['module'].'/menu.php' );
-      require_once( $component['module'].'/main-slider.php' );
-
+      require_once( $component['module'].'/menu.php' );      
 
       //SECTION - MODULE[ LOAD-PAGE ]
       if( isset($_GET['page']) ){
-        if( in_array($_GET['page'], $page_data) ){
+        if( in_array($_GET['page'], $page_data) ){      
+          //SECTION - MAIN BANNER   
+          require_once( $component['module'].'/main-banner.php' );
+          //SECTION - LOADING PAGE
           require_once( $component['page'].'/'.$_GET['page'].'.php' );
         } else {
           require_once( $component['page'].'/404.php' );
         }
       } else {
+        require_once( $component['module'].'/main-slider.php' );
         require_once( $component['page'].'/index.php' );
       }
 
