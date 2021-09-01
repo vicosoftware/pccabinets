@@ -20,4 +20,5 @@ return array(
     'resource' => 'components/resources',
     'module' => 'components/modules',
     'views' => 'components/views',
+    'page' => 'components/pages',
 );

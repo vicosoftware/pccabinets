@@ -74,6 +74,50 @@
   }
 }
 
+.rellax-thumbnail-r-a {
+  top: -10px;
+  left: 490px;
+}
+.rellax-thumbnail-r-b {
+  top: -160px;
+  left: 450px;
+}
+.rellax-thumbnail-r-c {
+  top: -60px;
+  left: 620px;
+}
+.rellax-thumbnail-a {
+  top: -10px;
+  left: -280px;
+}
+.rellax-thumbnail-b {
+  top: -160px;
+  left: -300px;
+}
+.rellax-thumbnail-c {
+  top: -60px;
+  left: -150px;
+}
+.rellax-thumbnail {
+  position: absolute;
+}
+.rellax-thumbnail img {
+  width: 200px;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.service-box-img {
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+@media (max-width: 768px) {
+  .service-box-img {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0);
+  }
+}
+
 /* SECTION -> SOCIAL MEDIA *************************************************************/
 .google-maps-contact {
   height: 400px;

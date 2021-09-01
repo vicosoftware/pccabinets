@@ -19,20 +19,20 @@
                 <div class="widget" data-cues="slideInDown" data-duration="600" data-delay="150">
                     <h4 class="widget-title mb-3 text-white">Company</h4>
                     <ul class="list-unstyled mb-0">
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="index.php?page=services">Services</a></li>
+                        <li><a href="#">About Us</a></li>                        
                     </ul>
                 </div>
 
                 <hr class="d-md-none mt-5 mb-5">
 
-                <div class="widget" data-cues="slideInDown" data-duration="600" data-delay="150">
-                    <h4 class="widget-title mb-3 mt-md-5 text-white">Cabinetry</h4>
+                <div class="widget" data-cues="slideInUp" data-duration="600" data-delay="150">
+                    <h4 class="widget-title mb-3 mt-md-5 text-white">Gallery</h4>
                     <ul class="list-unstyled mb-0">
-                        <li><a href="#">Kitchen</a></li>
-                        <li><a href="#">Entertainment</a></li>
-                        <li><a href="#">Bathroom</a></li>
-                        <li><a href="#">Custom Cabinets</a></li>
+                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="#">Before & After</a></li>
+                        <li><a href="#">Inspiration</a></li>
                     </ul>
                 </div>
             </div>
@@ -40,15 +40,13 @@
             <hr class="d-md-none mt-5 mb-0">
 
             <div class="col-lg-2 col-md-4 text-center text-lg-start">
-                <div class="widget" data-cues="slideInUp" data-duration="600" data-delay="150">
-                    <h4 class="widget-title mb-3 text-white">Services</h4>
+                <div class="widget" data-cues="slideInDown" data-duration="600" data-delay="150">
+                    <h4 class="widget-title mb-3 text-white">Cabinetry</h4>
                     <ul class="list-unstyled mb-0">
-                        <li><a href="#">Installation</a></li>
-                        <li><a href="#">Refinishing</a></li>
-                        <li><a href="#">Maintenance</a></li>
-                        <li><a href="#">Remodeling</a></li>
-                        <li><a href="#">Repair</a></li>
-                        <li><a href="#">Fabrication</a></li>
+                        <li><a href="#">Kitchen</a></li>
+                        <li><a href="#">Entertainment</a></li>
+                        <li><a href="#">Bathroom</a></li>
+                        <li><a href="#">Custom Cabinets</a></li>
                     </ul>
                 </div>
             </div>

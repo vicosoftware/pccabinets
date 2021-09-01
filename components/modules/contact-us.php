@@ -16,7 +16,16 @@
                         <div class="card bg-pale-primary text-center">
                         <div class="card-body py-11 counter-wrapper">
                             <h3 class="counter text-nowrap" style="visibility: visible;">1000+</h3>
-                            <p class="mb-0"><span class="typer text-primary" data-delay="800" data-delim=":" data-words="Satisfied Customers:Finished Works:Happy Customer:Thanks for trusting us"></span><span class="cursor text-primary" data-owner="typer" style="transition: all 0.1s ease 0s; opacity: 0;">|</span></p>
+                            <p class="mb-0">
+                                <span   class="typer text-primary" 
+                                        data-delay="100" 
+                                        data-delim=":" 
+                                        data-words="Satisfied Customers:Finished Works:Happy Customer:Thanks for trusting us">
+                                </span>
+                                <span   class="cursor text-primary" 
+                                        data-owner="typer" 
+                                        style="transition: all 0.1s ease 0s; opacity: 0;">|</span>
+                            </p>
                         </div>
                         </div>
                     </div>

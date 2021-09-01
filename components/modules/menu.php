@@ -1,5 +1,5 @@
 <header class="wrapper bg-soft-primary">
-    <nav class="navbar center-nav transparent position-absolute navbar-expand-lg navbar-dark caret-none">
+    <nav class="navbar center-nav transparent position-absolute navbar-expand-lg navbar-dark ">
         <div class="container flex-lg-row flex-nowrap align-items-center">
             <?php // LEFT MENU (LOGO) *************************************************************** ?>
             <div class="navbar-brand w-100">
@@ -19,57 +19,8 @@
                     <button type="button" class="btn-close btn-close-white offcanvas-close offcanvas-nav-close" aria-label="Close"></button>
                 </div>
                 <ul class="navbar-nav">
-                    <li class="nav-item d-none d-md-block"><a class="nav-link" href="#">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Services</a>
-                        <ul class="dropdown-menu mega-menu mega-menu-img">
-                            <li class="mega-menu-content">
-                                <ul class="row row-cols-1 row-cols-lg-6 gx-0 gx-lg-4 gy-lg-2 list-unstyled">
-                                    <li class="col">
-                                        <a class="dropdown-item" href="index.php">
-                                        <figure class="rounded lift d-none d-lg-block">
-                                            <img src="assets/img/menu/serv-installation.jpg" srcset="assets/img/menu/serv-installation.jpg 2x" alt="" class="img-shadow-bg">
-                                        </figure>
-                                        <span class="d-lg-none">Installation</span></a>
-                                    </li>
-                                    <li class="col">
-                                        <a class="dropdown-item" href="index.php">
-                                        <figure class="rounded lift d-none d-lg-block">
-                                            <img src="assets/img/menu/serv-refinishing.jpg" srcset="assets/img/menu/serv-refinishing.jpg 2x" alt="" class="img-shadow-bg">
-                                        </figure>
-                                        <span class="d-lg-none">Refinishing & Refacing</span></a>
-                                    </li>
-                                    <li class="col">
-                                        <a class="dropdown-item" href="index.php">
-                                        <figure class="rounded lift d-none d-lg-block">
-                                            <img src="assets/img/menu/serv-maintenance.jpg" srcset="assets/img/menu/serv-maintenance.jpg 2x" alt="" class="img-shadow-bg">
-                                        </figure>
-                                        <span class="d-lg-none">Maintenance</span></a>
-                                    </li>
-                                    <li class="col">
-                                        <a class="dropdown-item" href="index.php">
-                                        <figure class="rounded lift d-none d-lg-block">
-                                            <img src="assets/img/menu/serv-repair.jpg" srcset="assets/img/menu/serv-repair.jpg 2x" alt="" class="img-shadow-bg">
-                                        </figure>
-                                        <span class="d-lg-none">Repair</span></a>
-                                    </li>
-                                    <li class="col">
-                                        <a class="dropdown-item" href="index.php">
-                                        <figure class="rounded lift d-none d-lg-block">
-                                            <img src="assets/img/menu/serv-fabrication.jpg" srcset="assets/img/menu/serv-fabrication.jpg 2x" alt="" class="img-shadow-bg">
-                                        </figure>
-                                        <span class="d-lg-none">Fabrication</span></a>
-                                    </li>
-                                    <li class="col">
-                                        <a class="dropdown-item" href="index.php">
-                                        <figure class="rounded lift d-none d-lg-block">
-                                            <img src="assets/img/menu/serv-remodeling.jpg" srcset="assets/img/menu/serv-remodeling.jpg 2x" alt="" class="img-shadow-bg">
-                                        </figure>
-                                        <span class="d-lg-none">Remodeling</span></a>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
+                    <li class="nav-item d-none d-md-block"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.php?page=services">Services</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">Cabinetry</a>
                         <ul class="dropdown-menu mega-menu mega-menu-img">
                             <li class="mega-menu-content">
@@ -110,7 +61,14 @@
                             </li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="#">Portfolio</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link has-submenu" href="#">Gallery <span class="sub-arrow"></span></a>
+                        <ul class="dropdown-menu sm-nowrap hide-animation" style="width: auto; display: none; top: auto; left: 0px; margin-left: 0px; margin-top: 0px; min-width: 10rem; max-width: 25rem;">
+                            <li class="nav-item"><a class="dropdown-item" href="#">Portfolio</a></li>
+                            <li class="nav-item"><a class="dropdown-item" href="#">Before & After</a></li> <!-- https://authenticcustomcabinetry.com/gallery/ -->
+                            <li class="nav-item"><a class="dropdown-item" href="#">Inspiration</a></li>
+                        </ul>
+                    </li>
                     <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
                 </ul>
             </div>
