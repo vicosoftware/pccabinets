@@ -13,9 +13,9 @@ if( isset($_GET['page']) ){
             break;
         }
 
-        $SEO_SML_IMG_1 = $component['company_url'].'/assets/img/social-media-share/'.$_GET['page'].'_1.jpg';
-        $SEO_SML_IMG_2 = $component['company_url'].'/assets/img/social-media-share/'.$_GET['page'].'_2.jpg';
-        $SEO_SML_IMG_3 = $component['company_url'].'/assets/img/social-media-share/'.$_GET['page'].'_3.jpg';
+        $SEO_SML_IMG_1 = $component['company_url'].'assets/img/social-media-share/'.$_GET['page'].'.jpg';
+        $SEO_SML_IMG_2 = $component['company_url'].'assets/img/social-media-share/'.$_GET['page'].'.jpg';
+        $SEO_SML_IMG_3 = $component['company_url'].'assets/img/social-media-share/'.$_GET['page'].'.jpg';
     } else {
         //404 PAGE NOT FOUND
         $SEO_TITLE = $component['company_name'].' | Welcome';
@@ -23,9 +23,9 @@ if( isset($_GET['page']) ){
         $SEO_DESCRIPTION = 'We bring solutions to make life easier';
         $SEO_KEYWORDS = 'Custom Cabinets, Solutions';
 
-        $SEO_SML_IMG_1 = $component['company_url'].'/assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
-        $SEO_SML_IMG_2 = $component['company_url'].'/assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
-        $SEO_SML_IMG_3 = $component['company_url'].'/assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
+        $SEO_SML_IMG_1 = $component['company_url'].'assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
+        $SEO_SML_IMG_2 = $component['company_url'].'assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
+        $SEO_SML_IMG_3 = $component['company_url'].'assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
     }
 } else {
     //WELCOME PAGE
@@ -34,9 +34,9 @@ if( isset($_GET['page']) ){
     $SEO_DESCRIPTION = 'We bring solutions to make life easier';
     $SEO_KEYWORDS = 'Custom Cabinets, Solutions';
 
-    $SEO_SML_IMG_1 = $component['company_url'].'/assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
-    $SEO_SML_IMG_2 = $component['company_url'].'/assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
-    $SEO_SML_IMG_3 = $component['company_url'].'/assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
+    $SEO_SML_IMG_1 = $component['company_url'].'assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
+    $SEO_SML_IMG_2 = $component['company_url'].'assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
+    $SEO_SML_IMG_3 = $component['company_url'].'assets/img/social-media-share/welcome-precious-custom-cabinets.jpg';
 }
 
 return array(
