@@ -2,11 +2,17 @@
   //INCLUDE AND REQUIERE
   require_once( 'components/config/global-variables.php' );
 
-  $component = require_once( 'components/config/global-setup.php' );
-  $seo_data = require_once( 'components/config/seo-meta.php' );
-  $page_data = require_once( 'components/config/page-data.php' );
-  
+  //LINKS PARA SOCIAL MEDIA
   $social_media = require_once( 'components/config/social-media.php' );
+
+  //CONFIGURACION GLOBAL DEL SITIO
+  $component = require_once( 'components/config/global-setup.php' );
+
+  //VALIDA LAS PAGINAS QUE SE ENCUENTRAS DADAS DE ALTA
+  $page_data = require_once( 'components/config/page-data.php' );
+
+  //CREA EL SEO POR MEDIO DE LA VALIDACION DE LAS PAGINAS ($component / $page_data)
+  $seo_data = require_once( 'components/config/seo-meta.php' );
 ?>
 
 <!DOCTYPE html>
