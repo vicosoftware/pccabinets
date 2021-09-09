@@ -72,10 +72,10 @@
             
             $objService_footer = '
             <h5>Know more...</h5>
-            <a href="#" class=" hover link-purple">About Us </a> |
-            <a href="#" class=" hover link-purple">Portfolio </a> |
-            <a href="#" class=" hover link-purple">Befor & After </a> |
-            <a href="#" class=" hover link-purple">Inspiration </a>
+            <a href="index.php?page=about-us" class=" hover link-purple">About Us </a> |
+            <a href="index.php?page=gallery-porfolio" class=" hover link-purple">Portfolio </a> |
+            <a href="index.php?page=gallery-after-before" class=" hover link-purple">Befor & After </a> |
+            <a href="index.php?page=gallery-inspiration" class=" hover link-purple">Inspiration </a>
             ';
 
             foreach ($jsonData->items as $item) {
@@ -92,7 +92,7 @@
                 $objService .= '
                     <div class="project item"><div class="row">
                         <figure '.$figure_position.' data-cues="'.$dataCues_position.'" data-duration="1000" data-delay="100">
-                            <img src="assets/img/services/'.$item->url_banner.'.jpg" alt="'.$item->url_altDesc.'" class="service-box-img">
+                            <img src="assets/img/pages/services/'.$item->url_banner.'.jpg" alt="'.$item->url_altDesc.'" class="service-box-img">
                         </figure>
                         <div '.$divCard_position.'>
                             <div    class="card shadow-lg rellax" data-cues="'.$dataCues_position.'" data-duration="1000" data-delay="250"

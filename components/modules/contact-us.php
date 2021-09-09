@@ -4,7 +4,7 @@
             <div class="col-lg-7 position-relative">
                 <div class="shape bg-dot primary rellax w-18 h-18" data-cues="slideInLeft" data-duration="1500" data-delay="200" data-rellax-speed="1" style="top: 0px; left: -1.4rem; z-index: 0; transform: translate3d(0px, 2px, 0px);"></div>
                 <div class="row gx-md-5 gy-5">
-                <div class="col-md-6">
+                <div class="col-md-6 d-none d-md-block">
                     <figure class="rounded mt-md-10 position-relative" data-cues="slideInLeft" data-duration="1500" data-delay="200"><img src="assets/img/contact-us/banner-1.jpg" alt=""></figure>
                 </div>
                 <div class="col-md-6">

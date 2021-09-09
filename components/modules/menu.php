@@ -13,8 +13,10 @@
             <div class="navbar-collapse offcanvas-nav">
                 <div class="offcanvas-header d-lg-none d-xl-none">
                     <div style="text-align: left;">
-                        <img src="assets/img/logo-symbol-light.svg" srcset="assets/img/logo-symbol-light@2x.png 2x" alt="" style="width: 90%; margin-bottom: 10px;" />
-                        <img src="assets/img/logo-light.svg" srcset="assets/img/logo-light@2x.png 2x" alt="" style="width: 90%;" />
+                        <a href="index.php">
+                            <img src="assets/img/logo-symbol-light.svg" srcset="assets/img/logo-symbol-light@2x.png 2x" alt="" style="width: 90%; margin-bottom: 10px;" />
+                            <img src="assets/img/logo-light.svg" srcset="assets/img/logo-light@2x.png 2x" alt="" style="width: 90%;" />
+                        </a>
                     </div>
                     <button type="button" class="btn-close btn-close-white offcanvas-close offcanvas-nav-close" aria-label="Close"></button>
                 </div>
@@ -26,7 +28,7 @@
                             <li class="mega-menu-content">
                                 <ul class="row row-cols-1 row-cols-lg-4 gx-0 gx-lg-4 gy-lg-2 list-unstyled">
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.php">
+                                        <a class="dropdown-item" href="index.php?page=cab-kitchen">
                                             <figure class="rounded lift d-none d-lg-block">
                                                 <img src="assets/img/menu/prod-kitchen.jpg" srcset="assets/img/menu/prod-kitchen@2x.jpg 2x" alt="" class="img-shadow-bg">
                                             </figure>
@@ -34,7 +36,7 @@
                                         </a>                                        
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.php">
+                                        <a class="dropdown-item" href="index.php?page=cab-bathroom">
                                             <figure class="rounded lift d-none d-lg-block">
                                                 <img src="assets/img/menu/prod-bathroom.jpg" srcset="assets/img/menu/prod-bathroom@2x.jpg 2x" alt="" class="img-shadow-bg">
                                             </figure>
@@ -42,7 +44,7 @@
                                         </a>
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.php">
+                                        <a class="dropdown-item" href="index.php?page=cab-entertainment">
                                             <figure class="rounded lift d-none d-lg-block">
                                                 <img src="assets/img/menu/prod-entertainment.jpg" srcset="assets/img/menu/prod-entertainment@2x.jpg 2x" alt="" class="img-shadow-bg">
                                             </figure>
@@ -50,7 +52,7 @@
                                         </a>
                                     </li>
                                     <li class="col">
-                                        <a class="dropdown-item" href="index.php">
+                                        <a class="dropdown-item" href="index.php?page=cab-custom-cabinets">
                                             <figure class="rounded lift d-none d-lg-block">
                                                 <img src="assets/img/menu/prod-cabinets.jpg" srcset="assets/img/menu/prod-cabinets@2x.jpg 2x" alt="" class="img-shadow-bg">
                                             </figure>
@@ -64,12 +66,12 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link has-submenu" href="#">Gallery <span class="sub-arrow"></span></a>
                         <ul class="dropdown-menu sm-nowrap hide-animation" style="width: auto; display: none; top: auto; left: 0px; margin-left: 0px; margin-top: 0px; min-width: 10rem; max-width: 25rem;">
-                            <li class="nav-item"><a class="dropdown-item" href="#">Portfolio</a></li>
-                            <li class="nav-item"><a class="dropdown-item" href="#">Before & After</a></li> <!-- https://authenticcustomcabinetry.com/gallery/ -->
-                            <li class="nav-item"><a class="dropdown-item" href="#">Inspiration</a></li>
+                            <li class="nav-item"><a class="dropdown-item" href="index.php?page=gallery-porfolio">Portfolio</a></li>
+                            <li class="nav-item"><a class="dropdown-item" href="index.php?page=gallery-after-before">Before & After</a></li> <!-- https://authenticcustomcabinetry.com/gallery/ -->
+                            <li class="nav-item"><a class="dropdown-item" href="index.php?page=gallery-inspiration">Inspiration</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.php?page=about-us">About Us</a></li>
                 </ul>
             </div>
 
