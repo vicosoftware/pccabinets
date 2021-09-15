@@ -65,12 +65,12 @@ if( isset($_GET['page']) ){
             break;
 
             case 'gallery-after-before':
-                $SEO_TITLE = $component['company_name'].' | Gallery - After & Before';
-                $SEO_TITLE_SM = $component['company_name_sm'].' | Gallery - After & Before';
+                $SEO_TITLE = $component['company_name'].' | Gallery - Before & After';
+                $SEO_TITLE_SM = $component['company_name_sm'].' | Gallery - Before & After';
                 $SEO_DESCRIPTION = 'Our great experience can provide you the best service';
                 $SEO_KEYWORDS = 'Custom Cabinets, Solutions, Fabrication, Installation, Remodeling, Maintenance, Repair, Refinishing, Refacing';
 
-                $BANNER_TITLE = 'Gallery - After & Before';
+                $BANNER_TITLE = 'Gallery - Before & After';
                 $BANNER_DESCRIPTION = 'Our great experience can provide you the best service';
             break;
 

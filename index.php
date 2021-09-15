@@ -1,6 +1,7 @@
 <?php 
   //INCLUDE AND REQUIERE
   require_once( 'components/config/global-variables.php' );
+  require_once( 'components/config/functions.php' );
 
   //LINKS PARA SOCIAL MEDIA
   $social_media = require_once( 'components/config/social-media.php' );
