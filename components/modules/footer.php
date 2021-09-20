@@ -21,7 +21,7 @@
                     <ul class="list-unstyled mb-0">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="index.php?page=services">Services</a></li>
-                        <li><a href="#">About Us</a></li>                        
+                        <li><a href="index.php?page=about-us">About Us</a></li>                        
                     </ul>
                 </div>
 
@@ -30,9 +30,9 @@
                 <div class="widget" data-cues="slideInUp" data-duration="600" data-delay="150">
                     <h4 class="widget-title mb-3 mt-md-5 text-white">Gallery</h4>
                     <ul class="list-unstyled mb-0">
-                        <li><a href="#">Portfolio</a></li>
-                        <li><a href="#">Before & After</a></li>
-                        <li><a href="#">Inspiration</a></li>
+                        <li><a href="index.php?page=gallery-porfolio">Portfolio</a></li>
+                        <li><a href="index.php?page=gallery-after-before">Before & After</a></li>
+                        <li><a href="index.php?page=gallery-inspiration">Inspiration</a></li>
                     </ul>
                 </div>
             </div>
@@ -43,10 +43,10 @@
                 <div class="widget" data-cues="slideInDown" data-duration="600" data-delay="150">
                     <h4 class="widget-title mb-3 text-white">Cabinetry</h4>
                     <ul class="list-unstyled mb-0">
-                        <li><a href="#">Kitchen</a></li>
-                        <li><a href="#">Entertainment</a></li>
-                        <li><a href="#">Bathroom</a></li>
-                        <li><a href="#">Custom Cabinets</a></li>
+                        <li><a href="index.php?page=cab-kitchen">Kitchen</a></li>
+                        <li><a href="index.php?page=cab-bathroom">Entertainment</a></li>
+                        <li><a href="index.php?page=cab-entertainment">Bathroom</a></li>
+                        <li><a href="index.php?page=cab-custom-cabinets">Custom Cabinets</a></li>
                     </ul>
                 </div>
             </div>
