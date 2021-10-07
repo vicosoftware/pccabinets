@@ -10,9 +10,7 @@ require_once( $component['module'].'/title-page.php' );
     <div class="projects-overflow mt-md-10 mb-10 mb-lg-15">
 
         <?php // ITEMS (BEGIN) =========================================================================== ?>
-
         <?php 
-
             $objService = "";
 
             $jsonData = '{

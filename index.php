@@ -44,6 +44,9 @@
         require_once( $component['page'].'/index.php' );
       }
 
+      //SECTION - MODULE[ HAPPY-CUSTOMER ]
+      require_once( $component['module'].'/happy-customers.php' );
+
       //SECTION - MODULE[ CONTACT-US ]
       require_once( $component['module'].'/contact-us.php' );
 

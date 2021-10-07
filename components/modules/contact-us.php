@@ -1,4 +1,5 @@
-<section class="wrapper bg-light">
+<!-- bg-soft-primary / bg-light : angled ( lower-end / upper-end ) or wrapper-border -->
+<section class="wrapper bg-soft-primary angled upper-end">
     <div class="container py-10 py-md-12">
         <div class="row gy-10 gx-lg-8 gx-xl-12 align-items-center">
             <div class="col-lg-7 position-relative">
