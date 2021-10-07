@@ -7,7 +7,7 @@
             <div class="carousel owl-carousel gap-small owl-loaded owl-drag" 
                     data-margin="0" 
                     data-dots="true" 
-                    data-autoplay="true" 
+                    data-autoplay="false" 
                     data-autoplay-timeout="5000" 
                     data-responsive="{&quot;0&quot;:{&quot;items&quot;: &quot;1&quot;}, &quot;768&quot;:{&quot;items&quot;: &quot;2&quot;}, &quot;992&quot;:{&quot;items&quot;: &quot;2&quot;}, &quot;1200&quot;:{&quot;items&quot;: &quot;3&quot;}}">
                 <div class="owl-stage-outer">
