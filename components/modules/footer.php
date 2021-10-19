@@ -7,7 +7,9 @@
                     
                     <hr class="d-md-none mt-2 mb-5">
 
-                    <?php include( $component['module'].'/social-media.php' ); ?>
+                    <nav class="nav social social-white justify-content-center justify-content-md-start">
+                        <?php include( $component['module'].'/social-media.php' ); ?>
+                    </nav>
 
                     <hr class="mt-2 mb-5">
 

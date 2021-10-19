@@ -20,12 +20,7 @@
     <div class="widget">
         <h4 class="widget-title text-white mb-3"><i class="fas fa-icons"></i> Follow Us</h4>
         <nav class="nav social social-white">
-            <a href="https://www.yelp.com/biz/precious-custom-cabinets-south-gate" target="_blank"><i class="fab fa-yelp"></i></a>
-            <!-- a href="#"><i class="uil uil-twitter"></i></a>
-            <a href="#"><i class="uil uil-facebook-f"></i></a>
-            <a href="#"><i class="uil uil-dribbble"></i></a>
-            <a href="#"><i class="uil uil-instagram"></i></a>
-            <a href="#"><i class="uil uil-youtube"></i></a -->
+            <?php include( $component['module'].'/social-media.php' ); ?>
         </nav>
     </div>
 </div>

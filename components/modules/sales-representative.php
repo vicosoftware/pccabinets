@@ -30,6 +30,7 @@
         <span class="txt-person-title" >Sales Representative</span>
     </h4>
     <p>
+        danieldondiego_pcc@yahoo.com <br/>
         <i class="fas fa-phone-alt"></i> +1(323)204-6719
     </p>
     
@@ -41,7 +42,7 @@
         <!-- WHATSAPP -->
         <a href="https://wa.me/13232046719" target="_blank" class="btn btn-circle btn-leaf btn-sm rounded-pill" style="border: 2px solid #FFFFFF; background-color: #00E676 !important; margin-bottom: 0px;"><i class="fab fa-whatsapp"></i></a>
         <!-- E-MAIL -->
-        <!-- a href="mailto:arturodondiego@yahoo.com" target="_blank" class="btn btn-circle btn-red btn-sm rounded-pill" style="border: 2px solid #FFFFFF; background-color: #e67e22 !important; margin-bottom: 10px;"><i class="far fa-envelope"></i></a -->
+        <a href="mailto:danieldondiego_pcc@yahoo.com" target="_blank" class="btn btn-circle btn-red btn-sm rounded-pill" style="border: 2px solid #FFFFFF; background-color: #e67e22 !important; margin-bottom: 10px;"><i class="far fa-envelope"></i></a>
         <!-- GOOGLE MAPS -->
         <!-- a href="https://goo.gl/maps/YgUh1PWjGkDmfqEG9" target="_blank" class="btn btn-circle btn-primary btn-sm rounded-pill" style="border: 2px solid #FFFFFF; margin-bottom: 10px;"><i class="fas fa-map-marker-alt"></i></a -->
     </nav>

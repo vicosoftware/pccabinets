@@ -3,9 +3,9 @@
 return array(
     'yelp'      =>  "https://www.yelp.com/biz/precious-custom-cabinets-south-gate",
     'twitter'   =>  "https://twitter.com/pcustomcabinets",
-    'facebook'  =>  "",
+    'facebook'  =>  "https://www.facebook.com/preciouscustomcabinets",
     'dribbble'  =>  "",
-    'instagram' =>  "",
+    'instagram' =>  "https://www.instagram.com/preciouscabinets/",
     'youtube'   =>  "",
     'tiktok'    =>  "",
 );
