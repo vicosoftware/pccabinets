@@ -19,6 +19,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <?php require_once( $component['resource'].'/google-analytics.php' ); ?>
   <?php require_once( $component['resource'].'/head.php' ); ?>
 </head>
 
